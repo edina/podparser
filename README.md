@@ -7,6 +7,6 @@ For full details of the podparser, including dependencies, installation and usag
 
 For more information on the AddressingHistory project please take a look at the project blog. To view and access Post Office Directory materials processed using the podparser please explore the [AddressingHistory website](http://addressinghistory.edina.ac.uk), for which an [API](http://addressinghistory.edina.ac.uk/api) is also available.
 
-![Addressing History](images/ahistory.jpg)
+[![Addressing History](images/ahistory.jpg)](http://addressinghistory.edina.ac.uk)
 
 AddressingHistory was funded by [Jisc](http://www.jisc.ac.uk/) as part of their [Developing Community Content programme](http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent.aspx) and is being run by [EDINA](http://edina.ac.uk), working in partnership with the [National Library of Scotland](http://www.nls.uk).
